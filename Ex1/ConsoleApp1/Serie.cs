@@ -16,6 +16,12 @@ namespace ConsoleApp1
             set { episodios = value;}
         }
 
+        public Serie(int codigo, string titulo, int ano, int temporadas, int episodios) : base(codigo, titulo, ano)
+        {
+            Temporadas = temporadas;
+            Episodios  = episodios;
+        }
+
         public override void ExibirDetalhes()
         {
             Console.WriteLine("Exibir Serie");
