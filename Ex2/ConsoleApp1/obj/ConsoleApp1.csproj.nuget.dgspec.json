@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\ExercicioRevisao\\Ex1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\C#\\ExercicioRevisao\\Ex2\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\C#\\ExercicioRevisao\\Ex1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\C#\\ExercicioRevisao\\Ex2\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\ExercicioRevisao\\Ex1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\C#\\ExercicioRevisao\\Ex2\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\C#\\ExercicioRevisao\\Ex1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\C#\\ExercicioRevisao\\Ex2\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\sandro.alves\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\ExercicioRevisao\\Ex1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\C#\\ExercicioRevisao\\Ex2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandro.alves\\AppData\\Roaming\\NuGet\\NuGet.Config"
